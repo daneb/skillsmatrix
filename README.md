@@ -4,5 +4,5 @@
 You can view it in HTML [HERE](https://daneb.github.io/skillsmatrix)
 
 ---
-permalink: /index.html
+permalink: /skillsmatrix.html
 ---
